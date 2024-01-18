@@ -29,7 +29,7 @@ Follow these steps to set up the 0ai.ai project on your local machine.
 ## 1. Clone the Repository
 Begin by cloning the repository to your local machine:
 ```bash
-git clone https://github.com/zeroai-official/0ai.ai.git
+git clone https://github.com/zeroai-official/zeroai.git
 ```
 ## 2. Navigate to the Project Directory
 After cloning the repository, change into the project directory:

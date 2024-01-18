@@ -34,7 +34,7 @@ git clone https://github.com/zeroai-official/0ai.ai.git
 ## 2. Navigate to the Project Directory
 After cloning the repository, change into the project directory:
 ```bash
-cd ZEROAI
+cd zeroai
 ```
 ## 3. Download Large Model Files
 Due to their size, certain model files are not included in the repository and need to be downloaded separately. For the **ETHUSD_1h_randomforest.joblib** and **XBTUSD_1h_randomforest.joblib** files, please download them from the following Hugging Face links:

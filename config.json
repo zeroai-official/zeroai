@@ -1,0 +1,10 @@
+{
+    "symbol": "XBTUSD",
+    "startTime": "2014-01-01",
+    "modeltype": "randomforest",
+    "test_size": 100,
+    "data_frequency": "1d",
+    "hidden_dim":[256,128,64],
+    "batch_size": 128,
+    "epochs": 50
+}
